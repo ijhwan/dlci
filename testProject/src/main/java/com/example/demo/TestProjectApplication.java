@@ -11,7 +11,7 @@ public class TestProjectApplication {
 
 	@RequestMapping("/")
 	String index() {
-		return "Hello World! WOW";
+		return "Hello World! Hi";
 	}
 	
 	public static void main(String[] args) {
